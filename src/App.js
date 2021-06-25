@@ -10,7 +10,7 @@ import Learning from './components/learning';
 import Department from './components/department';
 import Contact from './components/contact';
 
-import Demo from './components/trialBox.js'
+import Chatbox from './components/chatbox';
 
 class App extends Component{
 
@@ -36,7 +36,7 @@ class App extends Component{
           </BrowserRouter>
 
 
-          <Demo/>
+          <Chatbox/>
 
 
       </>

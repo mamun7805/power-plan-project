@@ -13,7 +13,7 @@ const About = ()=> {
            <div className = "row">
                <div className = "col-md">
                    <div className = "m-4">
-                    <img className = "img-fluid"  src = {IndustryPic}  />
+                    <img className = "img-fluid" alt = "Industry Picture"  src = {IndustryPic}  />
                     <h4 className = "text-center p-5">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h4>
                    </div>
                </div>
